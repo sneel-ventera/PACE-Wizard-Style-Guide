@@ -2,4 +2,4 @@
 
 Living style guide for PACE Wizards
 
-https://att-pace.github.io/PACE-Wizard-Style-Guide/
+https://sneel-ventera.github.io/PACE-Wizard-Style-Guide/
